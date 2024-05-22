@@ -135,3 +135,5 @@ prd.env
 stg.env
 local.env
 customSettings.ts
+
+datadir/*
